@@ -8,9 +8,9 @@ This GitHub is a working portfolio. Every repo here is something I built, broke,
 
 ## Certifications
 
-**AI and Cloud:** NVIDIA · AWS (5x certified)
+**AI and Cloud:** NVIDIA · AWS 
 
-**Networking:** Cisco (CCIE Written, CCNP, CCDP, and more)
+**Networking:** Cisco 
 
 ## AI and GenAI Projects
 
@@ -55,7 +55,7 @@ Focused on agentic workflows and AI agents as the next evolution of enterprise a
 
 ## Connect
 
-[![LinkedIn]](https://www.linkedin.com/in/bartoszdworzanczyk/)
+https://www.linkedin.com/in/bartoszdworzanczyk/
 
 ---
 
