@@ -1,6 +1,6 @@
 # Bart Dworzanczyk
 
-**Lead Technical Architect @ ePlus | From BGP to RAG**
+**Lead Technical Architect | From BGP to RAG**
 
 12+ years designing enterprise data center and campus networks. Now building secure, scalable AI solutions on the infrastructure I know inside out.
 
