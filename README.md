@@ -1,7 +1,5 @@
 # Bart Dworzanczyk
 
-**Lead Technical Architect | From BGP to RAG**
-
 12+ years designing enterprise data center and campus networks. Now building secure, scalable AI solutions on the infrastructure I know inside out.
 
 This GitHub is a working portfolio. Every repo here is something I built, broke, fixed, and documented along the way. I learn by doing, not by watching.
