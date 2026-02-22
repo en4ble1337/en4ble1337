@@ -10,14 +10,13 @@ This GitHub is a working portfolio. Every repo here is something I built, broke,
 
 **Networking:** Cisco 
 
-## AI and GenAI Projects
+## Featured Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [**Transcribo AI**](https://github.com/en4ble1337/Transcribo-AI) | Fast, offline AI dictation that types into any app. Features NPU hardware acceleration for instant, private voice to text. | Python, Whisper, Local Inference |
 | [**AI Assistant with RAG (Discord)**](https://github.com/en4ble1337/AI-Assistant-with-RAG---Discord---Release-1.0) | My first GenAI project. Local first RAG chatbot using Ollama and ChromaDB. Took an OpenAI dependent project and rebuilt it to run entirely on local LLMs. Expanding to additional platforms. | Python, LangChain, Ollama, ChromaDB, HuggingFace |
 | [**Project Launchpad**](https://github.com/en4ble1337/project-launchpad) | A 4 phase workflow that transforms vague ideas into hallucination proof codebases. Systematic approach to AI assisted project development. | Methodology, Prompt Engineering |
-| [**vLLM on Proxmox LXC**](https://github.com/en4ble1337/vllm-proxmox-lxc-guide) | Installation guide for running vLLM inside Proxmox LXC containers with GPU passthrough and PagedAttention for high throughput local inference. | vLLM, Proxmox, NVIDIA, LXC |
 
 ## MCP Integrations (Model Context Protocol)
 
@@ -27,6 +26,10 @@ Where my networking background meets AI. These MCP servers connect AI assistants
 |---------|-------------|-------|
 | [**Cisco Support MCP Server**](https://github.com/en4ble1337/mcp-cisco-support) | Connects AI assistants to Cisco Support APIs (46 tools across 8 APIs) for automated infrastructure assessments, bug tracking, EOL analysis, and security advisories. Built a custom Claude skill on top for generating client ready assessment reports. | TypeScript, MCP, Cisco APIs, Claude Skills |
 | [**Pure Storage MCP Server**](https://github.com/en4ble1337/pure-storage-model-context-protocol) | Hybrid MCP server for Pure Storage fleet management. Collaborated directly with Pure Storage engineers on API wrappers that enable AI driven health checks, capacity forecasting, and TAM reporting. | Python, MCP, Pure1 API, FlashArray/FlashBlade |
+
+## Guides
+
+| [**vLLM on Proxmox LXC**](https://github.com/en4ble1337/vllm-proxmox-lxc-guide) | Installation guide for running vLLM inside Proxmox LXC containers with GPU passthrough and PagedAttention for high throughput local inference. | vLLM, Proxmox, NVIDIA, LXC |
 
 ## GPU Infrastructure and Compute
 
