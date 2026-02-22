@@ -29,6 +29,8 @@ Where my networking background meets AI. These MCP servers connect AI assistants
 
 ## Guides
 
+| Project | What It Does | Stack |
+|---------|-------------|-------|
 | [**vLLM on Proxmox LXC**](https://github.com/en4ble1337/vllm-proxmox-lxc-guide) | Installation guide for running vLLM inside Proxmox LXC containers with GPU passthrough and PagedAttention for high throughput local inference. | vLLM, Proxmox, NVIDIA, LXC |
 
 ## GPU Infrastructure and Compute
