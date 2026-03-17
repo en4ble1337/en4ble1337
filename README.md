@@ -1,17 +1,41 @@
-# New Sections
+# README.md
+
+## Introduction
+[Original content here]
+
+## Certifications
+[Original content here]
+
+## Featured Projects
+[Original content here]
+
+## MCP Integrations
+[Original content here]
+
+## Guides
+[Original content here]
+
+## GPU Infrastructure
+[Original content here]
+
+## Infrastructure and Automation
+[Original content here]
 
 ## AI Agents & Agentic Systems
-
-This section covers the definition and implications of AI agents and the broader concept of agentic systems. Additionally, it explores how these systems can influence human behavior and decision-making.
+- **GPU Autopilot**: [Description of GPU Autopilot]
+- **Multi-Agent Framework**: [Description of Multi-Agent Framework]
+- **Project Dolores**: [Description of Project Dolores]
+- **dolOS**: [Description of dolOS]
 
 ## Miscellaneous
-
-A collection of various topics that don't fall under specific categories, including interesting facts and emerging trends in AI.
+- **DPWD**: [Description of DPWD]
+- **Codex Usage Monitor**: [Description of Codex Usage Monitor]
 
 ## Quick Reference Tools
+- **ai-linux-tools**: [Description of ai-linux-tools]
 
-Links and references to tools that can enhance productivity or assist in working with AI technologies.
+## What I Am Working On
+[Original content here]
 
-# What I Am Working On
-
-[Original content continues here...]
+## Connect
+[Original content here]
