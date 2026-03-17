@@ -15,6 +15,15 @@
 | [**AI Assistant with RAG (Discord)**](https://github.com/en4ble1337/AI-Assistant-with-RAG---Discord---Release-1.0) | My first GenAI project. Local first RAG chatbot using Ollama and ChromaDB. Took an OpenAI dependent project and rebuilt it to run entirely on local LLMs. Expanding to additional platforms. | Python, LangChain, Ollama, ChromaDB, HuggingFace |
 | [**Project Launchpad**](https://github.com/en4ble1337/project-launchpad) | A 4 phase workflow that transforms vague ideas into hallucination proof codebases. Systematic approach to AI assisted project development. | Methodology, Prompt Engineering |
 
+## AI Agents & Agentic Systems
+
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| [GPU Autopilot](https://github.com/en4ble1337/gpuautopilot) | Agentic GPU pricing optimization. Auto-adjust prices to undercut competitors, cross-platform market intelligence, per-machine control, and real-time notifications via Discord/Telegram. | Python, AI Agents, Market Intelligence |
+| [Multi-Agent Framework](https://github.com/en4ble1337/multi-agent-framework) | Documentation-only reference for running multiple autonomous agents with private workspaces, shared coordination surface, and human oversight. | Documentation, Methodology |
+| [Project Dolores](https://github.com/en4ble1337/project-dolores) | Local-first edge AI voice assistant designed to evolve into a persistent multimodal system with memory, perception, and agentic tool use. | Python, Edge AI, Voice, Multimodal |
+| [dolOS](https://github.com/en4ble1337/dolOS) | High-performance multimodal agentic engine serving as the core for Project Dolores. Privacy-first, low-latency execution at the edge. | Python, Edge AI, Multimodal |
+
 ## MCP Integrations (Model Context Protocol)
 
 Where my networking background meets AI.
@@ -50,15 +59,6 @@ Building and operating GPU compute infrastructure to support AI/ML workloads on 
 | [**Ansible Proxmox**](https://github.com/en4ble1337/Ansible-Proxmox) | Infrastructure as Code for Proxmox environments. Automated provisioning and configuration management. | Ansible, Python, Proxmox API |
 | [**OpenWebUI + SearXNG**](https://github.com/en4ble1337/openwebui-searxng) | Self hosted AI chat interface with private web search integration. | Docker, SearXNG, Open WebUI |
 | [**Nginx OPNsense Cloudflare**](https://github.com/en4ble1337/ngnix-opnsense-cloudflare) | Reverse proxy and security configuration for self hosted services behind Cloudflare. | Nginx, OPNsense, Cloudflare |
-
-## AI Agents & Agentic Systems
-
-| Project | What It Does | Stack |
-|---------|--------------|-------|
-| [GPU Autopilot](https://github.com/en4ble1337/gpuautopilot) | Agentic GPU pricing optimization. Auto-adjust prices to undercut competitors, cross-platform market intelligence, per-machine control, and real-time notifications via Discord/Telegram. | Python, AI Agents, Market Intelligence |
-| [Multi-Agent Framework](https://github.com/en4ble1337/multi-agent-framework) | Documentation-only reference for running multiple autonomous agents with private workspaces, shared coordination surface, and human oversight. | Documentation, Methodology |
-| [Project Dolores](https://github.com/en4ble1337/project-dolores) | Local-first edge AI voice assistant designed to evolve into a persistent multimodal system with memory, perception, and agentic tool use. | Python, Edge AI, Voice, Multimodal |
-| [dolOS](https://github.com/en4ble1337/dolOS) | High-performance multimodal agentic engine serving as the core for Project Dolores. Privacy-first, low-latency execution at the edge. | Python, Edge AI, Multimodal |
 
 ## Miscellaneous
 
