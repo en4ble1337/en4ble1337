@@ -1,6 +1,3 @@
-Here’s a clean full `README.md` with your new sections appended in a natural spot before **What I Am Working On**, based on your current repo README. ([GitHub][1])
-
-```md
 # Bart Dworzanczyk
 
 12+ years designing enterprise data center and campus networks. Now building secure, scalable AI solutions on the infrastructure I know inside out. This GitHub is a working portfolio. Every repo here is something I built, broke, fixed, and documented along the way. I learn by doing, not by watching.
@@ -87,8 +84,4 @@ https://www.linkedin.com/in/bartoszdworzanczyk/
 ---
 
 *12+ years of enterprise infrastructure. Now bringing that same rigor to AI. Local first. Infrastructure native.*
-```
 
-One small improvement I’d make before you paste it: use bold project names in the three new sections too, so they visually match the rest of the README.
-
-[1]: https://raw.githubusercontent.com/en4ble1337/en4ble1337/main/README.md "raw.githubusercontent.com"
